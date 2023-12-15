@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /icons/menu.svg
+Disallow: /icons/close-outline.svg
+Disallow: /icons/cheveron-outline-right.svg
+Disallow: /icons/cheveron-outline-left.svg
+Disallow: /images/logos/icon-instagram.jpg
+Disallow: /images/logos/spoke-logo.png
+
+Sitemap: https://max-dalton.com/sitemap.xml
