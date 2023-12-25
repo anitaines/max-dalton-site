@@ -1,9 +1,46 @@
 // Data
 const news = [
     {
+        name: "happyHolidays", // 47
+        date: "December 25, 2023",
+        dateTime: "2023-12-25",
+        hero: "happy-holidays", //.jpg || .webp
+        width: 670,
+        height: 838,
+        alt: "Illustration of Santa having a tea break.",
+        title: "Happy Holidays",
+        content: "<p>A few years back I've made this drawing of Santa having a tea break for a cover of The New Yorker. Unfortunately it wasn't accepted but I still think it's a nice illustration, so I picked it up from the bin and here I share it with you today.</p>" +
+        "<p>Happy Holidays to all of you! &#127876;</p>",
+        aditionalImages: []
+    },
+    {
+        name: "kandinsky", // 46
+        date: "December 16, 2023",
+        dateTime: "2023-12-08",
+        hero: "kandinsky-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustration of Wassily Kandinsky painting in his studio.",
+        title: "Kandinsky",
+        content: "<p>Wassily Kandinsky was born this day in 1866 in Moscow. He moved to Paris when the Nazis closed the Bauhaus to finally establish his studio in Neuilly-sur-Seine.</p> " +
+        "<p>This and more studio portraits are part of my new book Painters of the 20th Century Painting in their Studios. Written by Edel Cassidy and published by Paragon Books.</p>" +
+        "<p>Available now at <a target='_blank' rel='noreferrer' href='https://www.instagram.com/paragon_books/'>@paragon_books</a> and the major book stores. If you're in Europe you can order it from <a target='_blank' rel='noreferrer' href='https://www.instagram.com/anthologymagazine/'>@anthologymagazine</a></p>",
+        aditionalImages: [
+            {
+                name: "kandinsky-2" //.jpg || .webp
+            },
+            {
+                name: "kandinsky-3" //.jpg || .webp
+            },
+            {
+                name: "kandinsky-4" //.jpg || .webp
+            }
+        ]
+    },
+    {
         name: "freud", // 45
         date: "December 8, 2023",
-        dateTime: "2023-11-08",
+        dateTime: "2023-12-08",
         hero: "freud-1", //.jpg || .webp
         width: 670,
         height: 670,
