@@ -1,6 +1,27 @@
 // Data
 const news = [
     {
+        name: "matisse", // 48
+        date: "December 31, 2023",
+        dateTime: "2023-12-31",
+        hero: "matisse-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustration of Henri Matisse painting in his studio.",
+        title: "Matisse",
+        content: "<p>Henri Matisse was born the last day of 1869. At the age of seventy-two, he became reliant on a wheelchair and since then he often worked from his bed, making drawings and collages. He used a two-metre-long bamboo cane tipped with charcoal to make sketches for the decoration of the Chapelle du Rosaire de Vence on the walls of his room.</p> " +
+        "<p>This and more studio portraits are part of my new book <i>Painters of the 20th Century Painting in their Studios</i>. Written by Edel Cassidy and published by Paragon Books.</p>" +
+        "<p>Available now at <a target='_blank' rel='noreferrer' href='https://www.instagram.com/paragon_books/'>@paragon_books</a> and the major book stores. If you're in Europe you can order it from <a target='_blank' rel='noreferrer' href='https://www.instagram.com/anthologymagazine/'>@anthologymagazine</a>.</p>",
+        aditionalImages: [
+            {
+                name: "matisse-2" //.jpg || .webp
+            },
+            {
+                name: "matisse-3" //.jpg || .webp
+            }
+        ]
+    },
+    {
         name: "happyHolidays", // 47
         date: "December 25, 2023",
         dateTime: "2023-12-25",
@@ -23,8 +44,8 @@ const news = [
         alt: "Illustration of Wassily Kandinsky painting in his studio.",
         title: "Kandinsky",
         content: "<p>Wassily Kandinsky was born this day in 1866 in Moscow. He moved to Paris when the Nazis closed the Bauhaus to finally establish his studio in Neuilly-sur-Seine.</p> " +
-        "<p>This and more studio portraits are part of my new book Painters of the 20th Century Painting in their Studios. Written by Edel Cassidy and published by Paragon Books.</p>" +
-        "<p>Available now at <a target='_blank' rel='noreferrer' href='https://www.instagram.com/paragon_books/'>@paragon_books</a> and the major book stores. If you're in Europe you can order it from <a target='_blank' rel='noreferrer' href='https://www.instagram.com/anthologymagazine/'>@anthologymagazine</a></p>",
+        "<p>This and more studio portraits are part of my new book <i>Painters of the 20th Century Painting in their Studios</i>. Written by Edel Cassidy and published by Paragon Books.</p>" +
+        "<p>Available now at <a target='_blank' rel='noreferrer' href='https://www.instagram.com/paragon_books/'>@paragon_books</a> and the major book stores. If you're in Europe you can order it from <a target='_blank' rel='noreferrer' href='https://www.instagram.com/anthologymagazine/'>@anthologymagazine</a>.</p>",
         aditionalImages: [
             {
                 name: "kandinsky-2" //.jpg || .webp
