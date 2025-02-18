@@ -1,6 +1,156 @@
 // Data
 const news = [
     {
+        name: "asteroidCity", // 55
+        date: "January 15, 2025",
+        dateTime: "2025-01-15",
+        hero: "asteroid-city-1", //.jpg || .webp
+        width: 670,
+        height: 838,
+        alt: "Several illustrations Asteroid City's book.",
+        title: "Asteroid City",
+        content: "<p>Asteroid City books are finally here!</p>" +
+        "<p>Written by Matt Zoller Seitz with an introduction by the late David Bordwell. Contains tons of backstage photos and interviews to Wes Anderson, Jason Schwartzman and the Junior Stargazers. Published by Abrams Books.</p>" +
+        "<p>Some of my drawings here.</p>" +
+        "<p>Available to preorder. </p>",
+        aditionalImages: [
+            {
+                name: "asteroid-city-2" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-3" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-4" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-5" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-6" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-7" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-8" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-9" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-10" //.jpg || .webp
+            },
+            {
+                name: "asteroid-city-11" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "moleskine", // 54
+        date: "January 9, 2025",
+        dateTime: "2025-01-09",
+        hero: "moleskine", //.jpg || .webp
+        width: 670,
+        height: 532,
+        alt: "Illustration for The Moleskine Project.",
+        title: "The Moleskine Project",
+        content: "<p>So many great artists and so many great works in this 12th (!) edition of The Moleskine Project <a target='_blank' rel='noreferrer' href='https://www.instagram.com/spoke_art/'>@spoke_art</a></p> " +
+        "<p>Here's my artwork, based on the myth of Icarus, painted in watercolor, pencil and ink.</p>" +
+        "<p>Opening Reception: Saturday, January 11th from 5 to 7pm</p>" +
+        "<p>On View: January 11th to 25th at Minnesota Street Projects, 1275 Minnesota Street San Francisco, CA</p>" +
+        "<p>Tuesday - Saturday from 10 to 6</p>" +
+        "<p>To request the early preview or inquire about my piece DM <a target='_blank' rel='noreferrer' href='https://www.instagram.com/spoke_art/'>@spoke_art</a> or email SF@spoke-art.com</p>",
+        aditionalImages: []
+    },
+    {
+        name: "sfabf24", // 53
+        date: "July 18, 2024",
+        dateTime: "2024-07-18",
+        hero: "sfabf24", //.jpg || .webp
+        width: 670,
+        height: 838,
+        alt: "San Francisco Art Book Fair flyer.",
+        title: "SFABF24",
+        content: "<p>Attention people who like books and 20th century painting and also happen to be in San Francisco this weekend! Our book <i>Painters of the 20th Century Painting in their Studios</i> will be at the San Francisco Art Book Fair ready for you to pick up. Visit Paragon Books at Booth E1 <a target='_blank' rel='noreferrer' href='https://www.instagram.com/sfartbookfair/'>@sfartbookfair</a>.</p>" +
+        "<p>Opens today!</p>",
+        aditionalImages: []
+    },
+    {
+        name: "seventeen", // 52
+        date: "July 9, 2024",
+        dateTime: "2024-07-09",
+        hero: "seventeen-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Seventeen's latest album illustration.",
+        title: "Seventeen",
+        content: "<p>Not so long ago I made the art for K-pop group Seventeen's latest album. It's an opening box with a lot of stuff inside, very fun to make. Big thanks to Pledis Entertainment and to the band, that also sent me an autographed copy. Looks fabulous!</p>",
+        aditionalImages: [
+            {
+                name: "seventeen-2" //.jpg || .webp
+            },
+            {
+                name: "seventeen-3" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "craftBoss", // 51
+        date: "June 28, 2024",
+        dateTime: "2024-06-28",
+        hero: "craft-boss-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustrations for Craft Boss.",
+        title: "",
+        content: "<p>Happy to see my work for Craft Boss in the streets and stations of Tokyo.</p>",
+        aditionalImages: [
+            {
+                name: "craft-boss-2" //.jpg || .webp
+            },
+            {
+                name: "craft-boss-3" //.jpg || .webp
+            },
+            {
+                name: "craft-boss-4" //.jpg || .webp
+            },
+            {
+                name: "craft-boss-5" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "goodbye", // 50
+        date: "May 26, 2024",
+        dateTime: "2024-05-26",
+        hero: "goodbye", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustration of myself waving goodbye.",
+        title: "Goodbye",
+        content: "<p>Today ends the last weekend of the exhibition Moments in Film at @63culture in Seoul.</p> " +
+        "<p>Since its opening, more than half a million people have seen it, of whom 435,632 liked it, 154,553 recommended it to their friends, 27,807 really disliked it, 5,233 said, 'My kid could paint that', and one guy jumped from a bridge, though that last episode was apparently unrelated to having seen the show.</p>" +
+        "<p>Thank you to <a target='_blank' rel='noreferrer' href='https://www.instagram.com/myartmuseum_official/'>@myartmuseum_official</a>, <a target='_blank' rel='noreferrer' href='https://www.instagram.com/63culture/'>@63culture</a> and <a target='_blank' rel='noreferrer' href='https://www.instagram.com/spoke_art/'>@spoke_art</a> for curating, displaying and taking care of the logistics of this oversized exhibition.</p>" +
+        "<p>And thank you especially to all of you visitors, for all your good comments and all the love.</p>" +
+        "<p>Goodbye!</p>",
+        aditionalImages: []
+    },
+    {
+        name: "studio", // 49
+        date: "March 7, 2024",
+        dateTime: "2024-03-07",
+        hero: "studio", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustration of my studio.",
+        title: "",
+        content: "<p>This is a picture from the introduction of my last book <i>Painters of the 20th Century Painting in their Studios</i>.</p> " +
+        "<p>That's my former studio in Berlin filled with all my stuff.</p>" +
+        "<p>And that's my lazy dog on the floor. Her name is Fanny and she's always next to me. And by the window is my damaged cat named Marta. She's never with me but I still wanted to draw her so she doesn't get jealous and seek for revenge (that's what cats do).</p>",
+        aditionalImages: []
+    },
+    {
         name: "matisse", // 48
         date: "December 31, 2023",
         dateTime: "2023-12-31",
