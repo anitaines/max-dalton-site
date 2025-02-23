@@ -255,6 +255,15 @@ nav.desktop.home{
         font-weight: 300;
         font-size: 20px;
     }
+    nav.desktop.home .menu-items a::before {
+        display: block;
+        content: attr(title);
+        font-family: 'Josefin Sans Bold', sans-serif;
+        font-weight: 600;
+        height: 0;
+        overflow: hidden;
+        visibility: hidden;
+    }
     nav.desktop.home .menu-items a:hover{
         /* font-weight: bold; */
         font-family: 'Josefin Sans Bold', sans-serif;
