@@ -1,0 +1,453 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Max Dalton - Illustration</title>
+    <link>https://max-dalton.com/</link>
+    <description>RSS feed containing the latest news from illustrator Max Dalton.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <atom:link href="https://max-dalton.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Asteroid City</title>
+      <link>https://max-dalton.com/news.html?name=asteroid-city</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=asteroid-city</guid>
+      <media:content url="https://max-dalton.com/images/media-news/asteroid-city-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>The Moleskine Project</title>
+      <link>https://max-dalton.com/news.html?name=moleskine</link>
+      <pubDate>Tue, 09 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=moleskine</guid>
+      <media:content url="https://max-dalton.com/images/media-news/moleskine.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>SFABF24</title>
+      <link>https://max-dalton.com/news.html?name=sfabf24</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=sfabf24</guid>
+      <media:content url="https://max-dalton.com/images/media-news/sfabf24.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Seventeen</title>
+      <link>https://max-dalton.com/news.html?name=seventeen</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=seventeen</guid>
+      <media:content url="https://max-dalton.com/images/media-news/seventeen-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Craft Boss</title>
+      <link>https://max-dalton.com/news.html?name=craft-boss</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=craft-boss</guid>
+      <media:content url="https://max-dalton.com/images/media-news/craft-boss-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Goodbye</title>
+      <link>https://max-dalton.com/news.html?name=goodbye</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=goodbye</guid>
+      <media:content url="https://max-dalton.com/images/media-news/goodbye.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Studio</title>
+      <link>https://max-dalton.com/news.html?name=studio</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=studio</guid>
+      <media:content url="https://max-dalton.com/images/media-news/studio.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Matisse</title>
+      <link>https://max-dalton.com/news.html?name=matisse</link>
+      <pubDate>Tue, 31 Dec 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=matisse</guid>
+      <media:content url="https://max-dalton.com/images/media-news/matisse-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Happy Holidays</title>
+      <link>https://max-dalton.com/news.html?name=happy-holidays</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=happy-holidays</guid>
+      <media:content url="https://max-dalton.com/images/media-news/happy-holidays.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Kandinsky</title>
+      <link>https://max-dalton.com/news.html?name=kandinsky</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=kandinsky</guid>
+      <media:content url="https://max-dalton.com/images/media-news/kandinsky-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Freud</title>
+      <link>https://max-dalton.com/news.html?name=freud</link>
+      <pubDate>Thu, 08 Dec 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=freud</guid>
+      <media:content url="https://max-dalton.com/images/media-news/freud-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Magritte</title>
+      <link>https://max-dalton.com/news.html?name=magritte</link>
+      <pubDate>Wed, 21 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=magritte</guid>
+      <media:content url="https://max-dalton.com/images/media-news/magritte-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Monet</title>
+      <link>https://max-dalton.com/news.html?name=monet</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=monet</guid>
+      <media:content url="https://max-dalton.com/images/media-news/monet-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>More Paris Sketches</title>
+      <link>https://max-dalton.com/news.html?name=more-paris-sketches</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=more-paris-sketches</guid>
+      <media:content url="https://max-dalton.com/images/media-news/more-paris-sketches-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Painters of the 20th Century Painting in their Studios</title>
+      <link>https://max-dalton.com/news.html?name=painter-book-1</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=painter-book-1</guid>
+      <media:content url="https://max-dalton.com/images/media-news/painters-book-a-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Paris #7</title>
+      <link>https://max-dalton.com/news.html?name=paris-7</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=paris-7</guid>
+      <media:content url="https://max-dalton.com/images/media-news/paris-7.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Paris #6</title>
+      <link>https://max-dalton.com/news.html?name=paris-6</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=paris-6</guid>
+      <media:content url="https://max-dalton.com/images/media-news/paris-6.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Paris #5</title>
+      <link>https://max-dalton.com/news.html?name=paris-5</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=paris-5</guid>
+      <media:content url="https://max-dalton.com/images/media-news/paris-5.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Paris #4</title>
+      <link>https://max-dalton.com/news.html?name=paris-4</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=paris-4</guid>
+      <media:content url="https://max-dalton.com/images/media-news/paris-4.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Paris #3</title>
+      <link>https://max-dalton.com/news.html?name=paris-3</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=paris-3</guid>
+      <media:content url="https://max-dalton.com/images/media-news/paris-3.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Paris #2</title>
+      <link>https://max-dalton.com/news.html?name=paris-2</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=paris-2</guid>
+      <media:content url="https://max-dalton.com/images/media-news/paris-2.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Paris #1</title>
+      <link>https://max-dalton.com/news.html?name=paris-1</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=paris-1</guid>
+      <media:content url="https://max-dalton.com/images/media-news/paris-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Wake the Dead</title>
+      <link>https://max-dalton.com/news.html?name=wake-the-dead</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=wake-the-dead</guid>
+      <media:content url="https://max-dalton.com/images/media-news/wake-the-dead-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>The Family Singer</title>
+      <link>https://max-dalton.com/news.html?name=the-singer-family</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=the-singer-family</guid>
+      <media:content url="https://max-dalton.com/images/media-news/the-family-singer-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Dog in Studio</title>
+      <link>https://max-dalton.com/news.html?name=dog-in-studio</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=dog-in-studio</guid>
+      <media:content url="https://max-dalton.com/images/media-news/dog-in-studio.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Squid Game</title>
+      <link>https://max-dalton.com/news.html?name=squid-game</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=squid-game</guid>
+      <media:content url="https://max-dalton.com/images/media-news/squid-game.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Fair and Square</title>
+      <link>https://max-dalton.com/news.html?name=fair-and-square</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=fair-and-square</guid>
+      <media:content url="https://max-dalton.com/images/media-news/fair-and-square-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Addams Family</title>
+      <link>https://max-dalton.com/news.html?name=addams-family</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=addams-family</guid>
+      <media:content url="https://max-dalton.com/images/media-news/addams-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Puzzles!</title>
+      <link>https://max-dalton.com/news.html?name=klimt-monet-mondrian-puzzles</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=klimt-monet-mondrian-puzzles</guid>
+      <media:content url="https://max-dalton.com/images/media-news/kmm-puzzles-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Happy Winter! Happy Holidays!</title>
+      <link>https://max-dalton.com/news.html?name=happy-winter</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=happy-winter</guid>
+      <media:content url="https://max-dalton.com/images/media-news/happy-winter.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Golf Journal</title>
+      <link>https://max-dalton.com/news.html?name=golf-journal</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=golf-journal</guid>
+      <media:content url="https://max-dalton.com/images/media-news/golf-journal-01.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>My Next Show</title>
+      <link>https://max-dalton.com/news.html?name=moments-63-1</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=moments-63-1</guid>
+      <media:content url="https://max-dalton.com/images/media-news/mif63-01.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Interview by Ringier</title>
+      <link>https://max-dalton.com/news.html?name=interview-by-ringier</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=interview-by-ringier</guid>
+      <media:content url="https://max-dalton.com/images/media-news/interview.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Charles Mingus' 100th Birthday</title>
+      <link>https://max-dalton.com/news.html?name=mingus</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=mingus</guid>
+      <media:content url="https://max-dalton.com/images/media-news/mingus.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Der Gulaschpeter</title>
+      <link>https://max-dalton.com/news.html?name=gulaschpeter</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=gulaschpeter</guid>
+      <media:content url="https://max-dalton.com/images/media-news/gulaschpeter-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Ending and beginning</title>
+      <link>https://max-dalton.com/news.html?name=ende</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=ende</guid>
+      <media:content url="https://max-dalton.com/images/media-news/friedhof-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>The Small Stuff is finally out!</title>
+      <link>https://max-dalton.com/news.html?name=the-small-stuff-2</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=the-small-stuff-2</guid>
+      <media:content url="https://max-dalton.com/images/media-news/pd1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Parasite poster</title>
+      <link>https://max-dalton.com/news.html?name=parasite-2</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=parasite-2</guid>
+      <media:content url="https://max-dalton.com/images/media-news/p1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Cards found in the street</title>
+      <link>https://max-dalton.com/news.html?name=cards</link>
+      <pubDate>Wed, 9 Feb 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=cards</guid>
+      <media:content url="https://max-dalton.com/images/media-news/cards-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Tricycle magazine</title>
+      <link>https://max-dalton.com/news.html?name=tricycle</link>
+      <pubDate>Tue, 1 Feb 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=tricycle</guid>
+      <media:content url="https://max-dalton.com/images/media-news/tricycle_IG1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>My turn of the 20th century Art Nouveau piano</title>
+      <link>https://max-dalton.com/news.html?name=piano</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=piano</guid>
+      <media:content url="https://max-dalton.com/images/media-news/piano-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Jeff Goodman is a Double Threat</title>
+      <link>https://max-dalton.com/news.html?name=jeff</link>
+      <pubDate>Mon, 16 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=jeff</guid>
+      <media:content url="https://max-dalton.com/images/media-news/jeff.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Beikichi's Photo Album</title>
+      <link>https://max-dalton.com/news.html?name=album</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=album</guid>
+      <media:content url="https://max-dalton.com/images/media-news/album-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Bernard Strasser's WWI medals</title>
+      <link>https://max-dalton.com/news.html?name=bernard-strasser</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=bernard-strasser</guid>
+      <media:content url="https://max-dalton.com/images/media-news/bernard-strasser-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>My Irish Bodhran</title>
+      <link>https://max-dalton.com/news.html?name=irish-bodhran</link>
+      <pubDate>Tue, 4 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=irish-bodhran</guid>
+      <media:content url="https://max-dalton.com/images/media-news/bodhran-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>My grandmother's travel trunk</title>
+      <link>https://max-dalton.com/news.html?name=grandmothers-trunk</link>
+      <pubDate>Mon, 2 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=grandmothers-trunk</guid>
+      <media:content url="https://max-dalton.com/images/media-news/grandmothers-trunk-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Happy New Year!</title>
+      <link>https://max-dalton.com/news.html?name=happy-new-year</link>
+      <pubDate>Sat, 1 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=happy-new-year</guid>
+      <media:content url="https://max-dalton.com/images/media-news/happy-new-year.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>The Small Stuff</title>
+      <link>https://max-dalton.com/news.html?name=the-small-stuff</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=the-small-stuff</guid>
+      <media:content url="https://max-dalton.com/images/media-news/the-small-stuff-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Stefan Zweig</title>
+      <link>https://max-dalton.com/news.html?name=stefan-zweig</link>
+      <pubDate>Mon, 28 Nov 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=stefan-zweig</guid>
+      <media:content url="https://max-dalton.com/images/media-news/stefan-zweig-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Anthology Magazine</title>
+      <link>https://max-dalton.com/news.html?name=anthology-magazine</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=anthology-magazine</guid>
+      <media:content url="https://max-dalton.com/images/media-news/anthology-magazine-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Frank Lloyd Wright: Timeless</title>
+      <link>https://max-dalton.com/news.html?name=flw-timeless</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=flw-timeless</guid>
+      <media:content url="https://max-dalton.com/images/media-news/FLW-Timeless-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Parasite</title>
+      <link>https://max-dalton.com/news.html?name=parasite</link>
+      <pubDate>Wed, 1 Sep 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=parasite</guid>
+      <media:content url="https://max-dalton.com/images/media-news/parasite-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Art classes</title>
+      <link>https://max-dalton.com/news.html?name=artClasses</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=artClasses</guid>
+      <media:content url="https://max-dalton.com/images/media-news/art-classes-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>American Illustration</title>
+      <link>https://max-dalton.com/news.html?name=american-illustration</link>
+      <pubDate>Wed, 5 May 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=american-illustration</guid>
+      <media:content url="https://max-dalton.com/images/media-news/american-illustration-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+
+    <item>
+      <title>Blackboard</title>
+      <link>https://max-dalton.com/news.html?name=blackboard</link>
+      <pubDate>Sun, 2 May 2021 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=blackboard</guid>
+      <media:content url="https://max-dalton.com/images/media-news/blackboard-1.jpg" type="image/jpeg" medium="image"></media:content>
+    </item>
+  </channel>
+</rss>

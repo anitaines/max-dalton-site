@@ -1,7 +1,7 @@
 // Data
 const news = [
     {
-        name: "asteroidCity", // 55
+        name: "asteroid-city", // 55
         date: "January 15, 2025",
         dateTime: "2025-01-15",
         hero: "asteroid-city-1", //.jpg || .webp
@@ -12,7 +12,7 @@ const news = [
         content: "<p>Asteroid City books are finally here!</p>" +
         "<p>Written by Matt Zoller Seitz with an introduction by the late David Bordwell. Contains tons of backstage photos and interviews to Wes Anderson, Jason Schwartzman and the Junior Stargazers. Published by Abrams Books.</p>" +
         "<p>Some of my drawings here.</p>" +
-        "<p>Available to preorder. </p>",
+        "<p>Available to preorder.</p>",
         aditionalImages: [
             {
                 name: "asteroid-city-2" //.jpg || .webp
@@ -96,14 +96,14 @@ const news = [
         ]
     },
     {
-        name: "craftBoss", // 51
+        name: "craft-boss", // 51
         date: "June 28, 2024",
         dateTime: "2024-06-28",
         hero: "craft-boss-1", //.jpg || .webp
         width: 670,
         height: 670,
         alt: "Illustrations for Craft Boss.",
-        title: "",
+        title: "Craft Boss",
         content: "<p>Happy to see my work for Craft Boss in the streets and stations of Tokyo.</p>",
         aditionalImages: [
             {
@@ -144,7 +144,7 @@ const news = [
         width: 670,
         height: 670,
         alt: "Illustration of my studio.",
-        title: "",
+        title: "Studio",
         content: "<p>This is a picture from the introduction of my last book <i>Painters of the 20th Century Painting in their Studios</i>.</p> " +
         "<p>That's my former studio in Berlin filled with all my stuff.</p>" +
         "<p>And that's my lazy dog on the floor. Her name is Fanny and she's always next to me. And by the window is my damaged cat named Marta. She's never with me but I still wanted to draw her so she doesn't get jealous and seek for revenge (that's what cats do).</p>",
@@ -172,7 +172,7 @@ const news = [
         ]
     },
     {
-        name: "happyHolidays", // 47
+        name: "happy-holidays", // 47
         date: "December 25, 2023",
         dateTime: "2023-12-25",
         hero: "happy-holidays", //.jpg || .webp
@@ -262,7 +262,7 @@ const news = [
         ]
     },
     {
-        name: "moreParisSketches", // 42
+        name: "more-paris-sketches", // 42
         date: "November 13, 2023",
         dateTime: "2023-11-13",
         hero: "more-paris-sketches-1", //.jpg || .webp
@@ -302,7 +302,7 @@ const news = [
         ]
     },
     {
-        name: "paintersBookA", // 41
+        name: "painter-book-1", // 41
         date: "November 9, 2023",
         dateTime: "2023-11-09",
         hero: "painters-book-a-1", //.jpg || .webp
@@ -327,7 +327,7 @@ const news = [
         ]
     },
     {
-        name: "paris#7", // 40
+        name: "paris-7", // 40
         date: "November 9, 2023",
         dateTime: "2023-11-09",
         hero: "paris-7", //.jpg || .webp
@@ -339,7 +339,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "paris#6", // 39
+        name: "paris-6", // 39
         date: "November 9, 2023",
         dateTime: "2023-11-09",
         hero: "paris-6", //.jpg || .webp
@@ -351,7 +351,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "paris#5", // 38
+        name: "paris-5", // 38
         date: "November 9, 2023",
         dateTime: "2023-11-09",
         hero: "paris-5", //.jpg || .webp
@@ -363,7 +363,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "paris#4", // 38
+        name: "paris-4", // 38
         date: "November 6, 2023",
         dateTime: "2023-11-06",
         hero: "paris-4", //.jpg || .webp
@@ -375,7 +375,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "paris#3", // 37
+        name: "paris-3", // 37
         date: "November 5, 2023",
         dateTime: "2023-11-05",
         hero: "paris-3", //.jpg || .webp
@@ -387,7 +387,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "paris#2", // 36
+        name: "paris-2", // 36
         date: "November 5, 2023",
         dateTime: "2023-11-05",
         hero: "paris-2", //.jpg || .webp
@@ -399,7 +399,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "paris#1", // 35
+        name: "paris-1", // 35
         date: "November 4, 2023",
         dateTime: "2023-11-04",
         hero: "paris-1", //.jpg || .webp
@@ -411,7 +411,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "wakeTheDead", // 34
+        name: "wake-the-dead", // 34
         date: "October 31, 2023",
         dateTime: "2023-10-31",
         hero: "wake-the-dead-1", //.jpg || .webp
@@ -435,7 +435,7 @@ const news = [
         ]
     },
     {
-        name: "theSingerFamily", // 33
+        name: "the-singer-family", // 33
         date: "August 25, 2023",
         dateTime: "2023-08-25",
         hero: "the-family-singer-1", //.jpg || .webp
@@ -462,7 +462,7 @@ const news = [
         ]
     },
     {
-        name: "dogInStudio", // 32
+        name: "dog-in-studio", // 32
         date: "August 1, 2023",
         dateTime: "2023-08-01",
         hero: "dog-in-studio", //.jpg || .webp
@@ -474,7 +474,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "squidGame", // 31
+        name: "squid-game", // 31
         date: "June 19, 2023",
         dateTime: "2023-06-19",
         hero: "squid-game", //.jpg || .webp
@@ -488,7 +488,7 @@ const news = [
     },
     // 30
     {
-        name: "fairAndSquare", // 29
+        name: "fair-and-square", // 29
         date: "May 3, 2023",
         dateTime: "2023-05-03",
         hero: "fair-and-square-1", //.jpg || .webp
@@ -521,7 +521,7 @@ const news = [
         ]
     },
     {
-        name: "addamsFamily", // 28
+        name: "addams-family", // 28
         date: "March 19, 2023",
         dateTime: "2023-03-19",
         hero: "addams-1", //.jpg || .webp
@@ -567,7 +567,7 @@ const news = [
         ]
     },
     {
-        name: "klimtMonetMondrianPuzzles", // 27
+        name: "klimt-monet-mondrian-puzzles", // 27
         date: "March 1, 2023",
         dateTime: "2023-03-01",
         hero: "kmm-puzzles-1", //.jpg || .webp
@@ -608,7 +608,7 @@ const news = [
         ]
     },
     {
-        name: "happyWinter", // 26
+        name: "happy-winter", // 26
         date: "December 23, 2022",
         dateTime: "2022-12-23",
         hero: "happy-winter", //.jpg || .webp
@@ -620,7 +620,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "golfjournal", // 25
+        name: "golf-journal", // 25
         date: "December 15, 2022",
         dateTime: "2022-12-15",
         hero: "golf-journal-01", //.jpg || .webp
@@ -660,7 +660,7 @@ const news = [
         ]
     },
     {
-        name: "moments63a", // 24
+        name: "moments-63-1", // 24
         date: "December 6, 2022",
         dateTime: "2022-12-06",
         hero: "mif63-01", //.jpg || .webp
@@ -680,7 +680,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "interviewbyringier", // 23
+        name: "interview-by-ringier", // 23
         date: "June 3, 2022",
         dateTime: "2022-06-03",
         hero: "interview", //.jpg || .webp
@@ -758,7 +758,7 @@ const news = [
         ]
     },
     {
-        name: "theSmallStuff2", // 19
+        name: "the-small-stuff-2", // 19
         date: "April 14, 2022",
         dateTime: "2022-04-14",
         hero: "pd1", //.jpg || .webp
@@ -780,7 +780,7 @@ const news = [
         ]
     },
     {
-        name: "parasite2", // 18
+        name: "parasite-2", // 18
         date: "April 13, 2022",
         dateTime: "2022-04-13",
         hero: "p1", //.jpg || .webp
@@ -944,7 +944,7 @@ const news = [
         ]
     },
     {
-        name: "bernardStrasser", // 12
+        name: "bernard-strasser", // 12
         date: "January 11, 2022",
         dateTime: "2022-01-11",
         hero: "bernard-strasser-1", //.jpg || .webp
@@ -969,7 +969,7 @@ const news = [
         ]
     },
     {
-        name: "irishBodhran", // 11
+        name: "irish-bodhran", // 11
         date: "January 4, 2022",
         dateTime: "2022-01-04",
         hero: "bodhran-1", //.jpg || .webp
@@ -1003,7 +1003,7 @@ const news = [
         ]
     },
     {
-        name: "grandmothersTrunk", // 10
+        name: "grandmothers-trunk", // 10
         date: "January 2, 2022",
         dateTime: "2022-01-02",
         hero: "grandmothers-trunk-1", //.jpg || .webp
@@ -1031,7 +1031,7 @@ const news = [
         ]
     },
     {
-        name: "happyNewYear", // 9
+        name: "happy-new-year", // 9
         date: "January 1, 2022",
         dateTime: "2022-01-01",
         hero: "happy-new-year", //.jpg || .webp
@@ -1043,7 +1043,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "theSmallStuff", // 8
+        name: "the-small-stuff", // 8
         date: "December 20, 2021",
         dateTime: "2021-12-20",
         hero: "the-small-stuff-1", //.jpg || .webp
@@ -1071,7 +1071,7 @@ const news = [
         ]
     },
     {
-        name: "stefanZweig", // 7
+        name: "stefan-zweig", // 7
         date: "November 28, 2021",
         dateTime: "2021-11-28",
         hero: "stefan-zweig-1", //.jpg || .webp
@@ -1096,7 +1096,7 @@ const news = [
         ]
     },
     {
-        name: "anthologyMagazine", // 6
+        name: "anthology-magazine", // 6
         date: "November 17, 2021",
         dateTime: "2021-11-17",
         hero: "anthology-magazine-1", //.jpg || .webp
@@ -1118,7 +1118,7 @@ const news = [
         ]
     },
     {
-        name: "flwTimeless", // 5
+        name: "flw-timeless", // 5
         date: "October 21, 2021",
         dateTime: "2021-10-21",
         hero: "FLW-Timeless-1", //.jpg || .webp
@@ -1201,7 +1201,7 @@ const news = [
         ]
     },
     {
-        name: "americanIllustration", // 2
+        name: "american-illustration", // 2
         date: "May 5, 2021",
         dateTime: "2021-05-05",
         hero: "american-illustration-1", //.jpg || .webp
@@ -1235,6 +1235,25 @@ const news = [
 
 const applyBackgroundColor = (color) => {
     document.querySelector(".main-news").style.backgroundColor = color;
+
+    document.querySelector(".rss-link").style.backgroundColor = color;
+
+    const tooltip = document.querySelector(".rss-link .tooltip");
+    tooltip.style.backgroundColor = color;
+    tooltip.style.setProperty('--pseudo-border-color', `transparent ${color} transparent transparent`);
+}
+
+const getNameParam = () => {
+    const queryString = window.location.search;
+    const urlParam = new URLSearchParams(queryString);
+
+    let name = "";
+
+    if (urlParam.get('name') != null){
+        name = urlParam.get('name');
+    }
+
+    return name;
 }
 
 const getFromParam = () => {
@@ -1261,6 +1280,70 @@ const getToParam = () => {
     }
 
     return to;
+}
+
+const generateSingleArticle = (article) => {
+    const aditionalImages = article.aditionalImages.length;
+
+    let dots = "";
+
+    if (aditionalImages > 0){
+        for (let i = 0; i < aditionalImages; i++) {
+            dots += "<div class='dot' data-src='images/media-news/" + article.aditionalImages[i].name + "'></div>";
+        }
+    }
+
+    const content = `
+        <article class="single-item">
+            <div class="link-date">
+                <a class="news-link" href="news.html">
+                    <img src="icons/cheveron-left.svg" alt="Left arrow icon.">
+                    <span>Latest news</span>
+                </a>
+                <time datetime="${article.dateTime}">${article.date}</time>
+            </div>
+            <h2>${article.title}</h2>
+            <div class="image-container">
+                <picture data-news="${article.name}">
+
+                    <source class="sourceWebp" srcset="images/media-news/${article.hero}.webp" type="image/webp">
+
+                    <source class="sourceJpg" srcset="images/media-news/${article.hero}.jpg" type="image/jpeg">
+
+                    <img class="srcImg" src="images/media-news/${article.hero}.jpg"
+                    alt="${article.alt}"
+                    width="${article.width}" height="${article.height}">
+
+                </picture>
+                <div class="controls-container" ${article.aditionalImages.length > 0 ? '' : 'style="display:none;"'}>
+                    <div class="controls">
+                        <button aria-label="Previous image" type="button" name="button" class="previous">
+                            <img aria-hidden="true" src="icons/cheveron-outline-left.svg" alt="Left icon.">
+                        </button>
+
+                        <button aria-label="Next image" type="button" name="button" class="next">
+                            <img aria-hidden="true" src="icons/cheveron-outline-right.svg" alt="Close menu icon.">
+                        </button>
+                    </div>
+                </div>
+                <div class="dots-container ${article.name}" ${article.aditionalImages.length > 0 ? '' : 'style="display:none;"'}>
+                    <div class="dot active" data-src="images/media-news/${article.hero}"></div>
+                    ${dots}
+                </div>
+            </div>
+            ${article.content}
+        </article>
+    `;
+
+    const articlesContainer = document.querySelector(".articles-container");
+
+    articlesContainer.style.display = "block";
+
+    articlesContainer.insertAdjacentHTML('beforeend', content);
+
+    document.querySelector(".rss-link").style.display = "none";
+
+    document.querySelector(".pagination").style.display = "none";
 }
 
 const generateNewsByPage = (news) => {
@@ -1511,7 +1594,21 @@ if (backgroundColor == null){
 
 applyBackgroundColor(backgroundColor);
 
-generateNewsByPage(news);
+const articleName = getNameParam();
+const article = news.find(article => article.name === articleName);
+
+if (article) {
+
+    generateSingleArticle(article);
+
+} else {
+
+    generateNewsByPage(news);
+
+    generatePagination(news);
+
+    setMasonryLayout();
+}
 
 // Add next / previuos functionality for images
 document.addEventListener('click', (event) => {
@@ -1554,8 +1651,3 @@ document.addEventListener('touchend', (event) => {
         }
     }
 }, {passive: true});
-
-
-generatePagination(news);
-
-setMasonryLayout();
