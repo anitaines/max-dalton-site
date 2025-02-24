@@ -1,12 +1,13 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Max Dalton - Illustration</title>
     <link>https://max-dalton.com/</link>
     <description>RSS feed containing the latest news from illustrator Max Dalton.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://max-dalton.com/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -16,6 +17,7 @@
       <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=asteroid-city</guid>
       <media:content url="https://max-dalton.com/images/media-news/asteroid-city-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=asteroid-city">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -24,6 +26,7 @@
       <pubDate>Tue, 09 Jan 2025 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=moleskine</guid>
       <media:content url="https://max-dalton.com/images/media-news/moleskine.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=moleskine">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -32,6 +35,7 @@
       <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=sfabf24</guid>
       <media:content url="https://max-dalton.com/images/media-news/sfabf24.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=sfabf24">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -40,6 +44,7 @@
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=seventeen</guid>
       <media:content url="https://max-dalton.com/images/media-news/seventeen-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=seventeen">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -48,6 +53,7 @@
       <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=craft-boss</guid>
       <media:content url="https://max-dalton.com/images/media-news/craft-boss-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=craft-boss">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -56,6 +62,7 @@
       <pubDate>Sun, 26 May 2024 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=goodbye</guid>
       <media:content url="https://max-dalton.com/images/media-news/goodbye.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=goodbye">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -64,6 +71,7 @@
       <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=studio</guid>
       <media:content url="https://max-dalton.com/images/media-news/studio.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=studio">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -72,6 +80,7 @@
       <pubDate>Tue, 31 Dec 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=matisse</guid>
       <media:content url="https://max-dalton.com/images/media-news/matisse-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=matisse">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -80,6 +89,7 @@
       <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=happy-holidays</guid>
       <media:content url="https://max-dalton.com/images/media-news/happy-holidays.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=happy-holidays">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -88,6 +98,7 @@
       <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=kandinsky</guid>
       <media:content url="https://max-dalton.com/images/media-news/kandinsky-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=kandinsky">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -96,6 +107,7 @@
       <pubDate>Thu, 08 Dec 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=freud</guid>
       <media:content url="https://max-dalton.com/images/media-news/freud-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=freud">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -104,6 +116,7 @@
       <pubDate>Wed, 21 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=magritte</guid>
       <media:content url="https://max-dalton.com/images/media-news/magritte-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=magritte">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -112,6 +125,7 @@
       <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=monet</guid>
       <media:content url="https://max-dalton.com/images/media-news/monet-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=monet">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -120,14 +134,16 @@
       <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=more-paris-sketches</guid>
       <media:content url="https://max-dalton.com/images/media-news/more-paris-sketches-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=more-paris-sketches">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
       <title>Painters of the 20th Century Painting in their Studios</title>
-      <link>https://max-dalton.com/news.html?name=painter-book-1</link>
+      <link>https://max-dalton.com/news.html?name=painters-book-1</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-      <guid>https://max-dalton.com/news.html?name=painter-book-1</guid>
+      <guid>https://max-dalton.com/news.html?name=painters-book-1</guid>
       <media:content url="https://max-dalton.com/images/media-news/painters-book-a-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=painters-book-1">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -136,6 +152,7 @@
       <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=paris-7</guid>
       <media:content url="https://max-dalton.com/images/media-news/paris-7.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=paris-7">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -144,6 +161,7 @@
       <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=paris-6</guid>
       <media:content url="https://max-dalton.com/images/media-news/paris-6.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=paris-6">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -152,6 +170,7 @@
       <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=paris-5</guid>
       <media:content url="https://max-dalton.com/images/media-news/paris-5.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=paris-5">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -160,6 +179,7 @@
       <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=paris-4</guid>
       <media:content url="https://max-dalton.com/images/media-news/paris-4.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=paris-4">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -168,6 +188,7 @@
       <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=paris-3</guid>
       <media:content url="https://max-dalton.com/images/media-news/paris-3.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=paris-3">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -176,6 +197,7 @@
       <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=paris-2</guid>
       <media:content url="https://max-dalton.com/images/media-news/paris-2.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=paris-2">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -184,6 +206,7 @@
       <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=paris-1</guid>
       <media:content url="https://max-dalton.com/images/media-news/paris-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=paris-1">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -192,6 +215,7 @@
       <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=wake-the-dead</guid>
       <media:content url="https://max-dalton.com/images/media-news/wake-the-dead-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=wake-the-dead">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -200,6 +224,7 @@
       <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=the-singer-family</guid>
       <media:content url="https://max-dalton.com/images/media-news/the-family-singer-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=the-singer-family">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -208,6 +233,7 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=dog-in-studio</guid>
       <media:content url="https://max-dalton.com/images/media-news/dog-in-studio.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=dog-in-studio">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -216,6 +242,7 @@
       <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=squid-game</guid>
       <media:content url="https://max-dalton.com/images/media-news/squid-game.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=squid-game">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -224,6 +251,7 @@
       <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=fair-and-square</guid>
       <media:content url="https://max-dalton.com/images/media-news/fair-and-square-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=fair-and-square">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -232,6 +260,7 @@
       <pubDate>Sun, 19 Mar 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=addams-family</guid>
       <media:content url="https://max-dalton.com/images/media-news/addams-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=addams-family">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -240,6 +269,7 @@
       <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=klimt-monet-mondrian-puzzles</guid>
       <media:content url="https://max-dalton.com/images/media-news/kmm-puzzles-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=klimt-monet-mondrian-puzzles">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -248,6 +278,7 @@
       <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=happy-winter</guid>
       <media:content url="https://max-dalton.com/images/media-news/happy-winter.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=happy-winter">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -256,6 +287,7 @@
       <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=golf-journal</guid>
       <media:content url="https://max-dalton.com/images/media-news/golf-journal-01.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=golf-journal">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -264,6 +296,7 @@
       <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=moments-63-1</guid>
       <media:content url="https://max-dalton.com/images/media-news/mif63-01.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=moments-63-1">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -272,6 +305,7 @@
       <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=interview-by-ringier</guid>
       <media:content url="https://max-dalton.com/images/media-news/interview.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=interview-by-ringier">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -280,6 +314,7 @@
       <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=mingus</guid>
       <media:content url="https://max-dalton.com/images/media-news/mingus.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=mingus">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -288,6 +323,7 @@
       <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=gulaschpeter</guid>
       <media:content url="https://max-dalton.com/images/media-news/gulaschpeter-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=gulaschpeter">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -296,6 +332,7 @@
       <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=ende</guid>
       <media:content url="https://max-dalton.com/images/media-news/friedhof-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=ende">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -304,6 +341,7 @@
       <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=the-small-stuff-2</guid>
       <media:content url="https://max-dalton.com/images/media-news/pd1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=the-small-stuff-2">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -312,6 +350,7 @@
       <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=parasite-2</guid>
       <media:content url="https://max-dalton.com/images/media-news/p1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=parasite-2">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -320,6 +359,7 @@
       <pubDate>Wed, 9 Feb 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=cards</guid>
       <media:content url="https://max-dalton.com/images/media-news/cards-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=cards">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -328,6 +368,7 @@
       <pubDate>Tue, 1 Feb 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=tricycle</guid>
       <media:content url="https://max-dalton.com/images/media-news/tricycle_IG1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=tricycle">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -336,6 +377,7 @@
       <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=piano</guid>
       <media:content url="https://max-dalton.com/images/media-news/piano-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=piano">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -344,6 +386,7 @@
       <pubDate>Mon, 16 Jan 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=jeff</guid>
       <media:content url="https://max-dalton.com/images/media-news/jeff.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=jeff">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -352,6 +395,7 @@
       <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=album</guid>
       <media:content url="https://max-dalton.com/images/media-news/album-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=album">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -360,6 +404,7 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=bernard-strasser</guid>
       <media:content url="https://max-dalton.com/images/media-news/bernard-strasser-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=bernard-strasser">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -368,6 +413,7 @@
       <pubDate>Tue, 4 Jan 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=irish-bodhran</guid>
       <media:content url="https://max-dalton.com/images/media-news/bodhran-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=irish-bodhran">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -376,6 +422,7 @@
       <pubDate>Mon, 2 Jan 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=grandmothers-trunk</guid>
       <media:content url="https://max-dalton.com/images/media-news/grandmothers-trunk-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=grandmothers-trunk">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -384,6 +431,7 @@
       <pubDate>Sat, 1 Jan 2022 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=happy-new-year</guid>
       <media:content url="https://max-dalton.com/images/media-news/happy-new-year.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=happy-new-year">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -392,6 +440,7 @@
       <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=the-small-stuff</guid>
       <media:content url="https://max-dalton.com/images/media-news/the-small-stuff-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=the-small-stuff">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -400,6 +449,7 @@
       <pubDate>Mon, 28 Nov 2021 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=stefan-zweig</guid>
       <media:content url="https://max-dalton.com/images/media-news/stefan-zweig-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=stefan-zweig">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -408,6 +458,7 @@
       <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=anthology-magazine</guid>
       <media:content url="https://max-dalton.com/images/media-news/anthology-magazine-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=anthology-magazine">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -416,6 +467,7 @@
       <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=flw-timeless</guid>
       <media:content url="https://max-dalton.com/images/media-news/FLW-Timeless-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=flw-timeless">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -424,14 +476,16 @@
       <pubDate>Wed, 1 Sep 2021 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=parasite</guid>
       <media:content url="https://max-dalton.com/images/media-news/parasite-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=parasite">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
       <title>Art classes</title>
-      <link>https://max-dalton.com/news.html?name=artClasses</link>
+      <link>https://max-dalton.com/news.html?name=art-classes</link>
       <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
-      <guid>https://max-dalton.com/news.html?name=artClasses</guid>
+      <guid>https://max-dalton.com/news.html?name=art-classes</guid>
       <media:content url="https://max-dalton.com/images/media-news/art-classes-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=art-classes">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -440,6 +494,7 @@
       <pubDate>Wed, 5 May 2021 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=american-illustration</guid>
       <media:content url="https://max-dalton.com/images/media-news/american-illustration-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=american-illustration">More info</a></strong></div></content:encoded>
     </item>
 
     <item>
@@ -448,6 +503,7 @@
       <pubDate>Sun, 2 May 2021 00:00:00 GMT</pubDate>
       <guid>https://max-dalton.com/news.html?name=blackboard</guid>
       <media:content url="https://max-dalton.com/images/media-news/blackboard-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=blackboard">More info</a></strong></div></content:encoded>
     </item>
   </channel>
 </rss>
