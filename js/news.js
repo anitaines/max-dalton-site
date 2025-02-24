@@ -302,7 +302,7 @@ const news = [
         ]
     },
     {
-        name: "painter-book-1", // 41
+        name: "painters-book-1", // 41
         date: "November 9, 2023",
         dateTime: "2023-11-09",
         hero: "painters-book-a-1", //.jpg || .webp
@@ -1164,7 +1164,7 @@ const news = [
         aditionalImages: []
     },
     {
-        name: "artClasses", // 3
+        name: "art-classes", // 3
         date: "May 13, 2021",
         dateTime: "2021-05-13",
         hero: "art-classes-1", //.jpg || .webp
