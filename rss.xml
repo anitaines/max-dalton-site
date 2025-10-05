@@ -7,9 +7,27 @@
     <link>https://max-dalton.com/</link>
     <description>RSS feed containing the latest news from illustrator Max Dalton.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 GMT</lastBuildDate>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://max-dalton.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>The Vvitch</title>
+      <link>https://max-dalton.com/news.html?name=the-vvitch</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=the-vvitch</guid>
+      <media:content url="https://max-dalton.com/images/media-news/the-vvitch-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=the-vvitch">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>No Direction Home</title>
+      <link>https://max-dalton.com/news.html?name=no-direction-home</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=no-direction-home</guid>
+      <media:content url="https://max-dalton.com/images/media-news/no-direction-home-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=no-direction-home">More info</a></strong></div></content:encoded>
+    </item>
 
     <item>
       <title>Asteroid City</title>

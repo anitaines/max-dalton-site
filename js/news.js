@@ -1,6 +1,69 @@
 // Data
 const news = [
     {
+        name: "the-vvitch", // 57
+        date: "July 23, 2025",
+        dateTime: "2025-07-23",
+        hero: "the-vvitch-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustrations and pictures of The Witch poster",
+        title: "The Vvitch",
+        content: "<p>Just finished this piece and I'm so excited to finally share it with you!</p>" +
+        "<p>The Vvitch is one of the most magnificent films I've ever seen. Yeah, it's technically a horror movie—but I've always seen it more as a sociological story about the collective psychosis that swept through Europe starting around the 15th century. It's such a haunting and beautifully crafted descent into fear, isolation, and belief.</p>" +
+        "<p>Directed by Robert Eggers and starring a very young <a target='_blank' rel='noreferrer' href='https://www.instagram.com/anyataylorjoy/'>@anyataylorjoy</a> (what a debut!), the film is packed with historical texture. Eggers did some serious research into the period, and I'm pretty sure one of his references was The History of Witches and Wizards (published in 1720), which collects many of the “testimonies” and imagery echoed throughout the film. You can actually browse the book on the Wellcome Collection website—it's a fascinating read.</p>" +
+        "<p>For this print, I drew heavily from the engravings of that era—especially from that book. I chose to carve each illustration into wood by hand because I wanted to capture the spirit and authenticity of the original imagery. There's something about the physicality and texture of woodcut printing that felt right for this subject matter. After printing them one by one, I scanned and composed the elements into this commemorative poster to celebrate the film's 10th anniversary.</p>" +
+        "<p>The print will debut at SpokeArt's booth at San Diego Comic Con, opening July 24. If you're going, come by and check it out! <a target='_blank' rel='noreferrer' href='https://www.instagram.com/spoke_art/'>@spoke_art</a> Booth 4900</p>",
+        aditionalImages: [
+            {
+                name: "the-vvitch-2" //.jpg || .webp
+            },
+            {
+                name: "the-vvitch-3" //.jpg || .webp
+            },
+            {
+                name: "the-vvitch-4" //.jpg || .webp
+            },
+            {
+                name: "the-vvitch-5" //.jpg || .webp
+            },
+            {
+                name: "the-vvitch-6" //.jpg || .webp
+            },
+            {
+                name: "the-vvitch-7" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "no-direction-home", // 56
+        date: "March 2, 2025",
+        dateTime: "2025-03-02",
+        hero: "no-direction-home-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Several illustrations for 'No direction home' poster.",
+        title: "No Direction Home",
+        content: "<p>Eleven years ago, I created this reversible poster inspired by Martin Scorsese's documentary film No Direction Home, which explores Bob Dylan's life from his arrival in New York to his motorcycle accident in 1966.</p>" +
+        "<p>My illustration depicts his departure from his home state of Minnesota on one side and New York's MacDougal Street in the 1960s on the other.</p>" +
+        "<p>The print is sold out but I thought it would be fun to share this old image again after watching the latest movie, A Complete Unknown, which, I have to say, isn't half bad. I hope it helps more people discover Dylan's music and his genius poetry—if that still means anything these days.</p>" +
+        "<p>I've also added a few references explaining who's who.</p>",
+        aditionalImages: [
+            {
+                name: "no-direction-home-2" //.jpg || .webp
+            },
+            {
+                name: "no-direction-home-3" //.jpg || .webp
+            },
+            {
+                name: "no-direction-home-4" //.jpg || .webp
+            },
+            {
+                name: "no-direction-home-5" //.jpg || .webp
+            }
+        ]
+    },
+    {
         name: "asteroid-city", // 55
         date: "January 15, 2025",
         dateTime: "2025-01-15",
