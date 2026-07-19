@@ -608,12 +608,12 @@ nav.desktop.general{
 .main-news article .controls-container  button{
     background-color: transparent;
     border: none;
-
     border-radius: 50%;
     padding: 0;
     margin: 0;
     height: 30px;
     width: 30px;
+    cursor: pointer;
 }
 .main-news article .controls-container  button img{
     width: 30px;
@@ -634,14 +634,18 @@ nav.desktop.general{
 .main-news article .dots-container .dot.active{
     background-color: #000000;
 }
-.main-news article p{
-    /* font-family: 'Josefin Slab', serif; */
+.main-news article p,
+.main-news article ul,
+.main-news article li {
     letter-spacing: 2px;
     font-weight: 300;
     font-size: 18px;
     line-height: 1.5;
     padding: 0 5px;
     overflow-wrap: break-word;
+}
+.main-news article li {
+    margin: 0 0 0 13px;
 }
 .main-news article a{
     text-decoration: underline;

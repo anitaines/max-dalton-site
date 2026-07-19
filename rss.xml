@@ -7,9 +7,108 @@
     <link>https://max-dalton.com/</link>
     <description>RSS feed containing the latest news from illustrator Max Dalton.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 GMT</lastBuildDate>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://max-dalton.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>The Phoenician Scheme</title>
+      <link>https://max-dalton.com/news.html?name=the-phoenician-scheme</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=the-phoenician-scheme</guid>
+      <media:content url="https://max-dalton.com/images/media-news/the-phoenician-scheme-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=the-phoenician-scheme">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Happy Friday</title>
+      <link>https://max-dalton.com/news.html?name=happy-friday</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=happy-friday</guid>
+      <media:content url="https://max-dalton.com/images/media-news/happy-friday-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=happy-friday">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Untitled</title>
+      <link>https://max-dalton.com/news.html?name=untitled</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=untitled</guid>
+      <media:content url="https://max-dalton.com/images/media-news/untitled-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=untitled">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Have a nice week</title>
+      <link>https://max-dalton.com/news.html?name=have-a-nice-week</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=have-a-nice-week</guid>
+      <media:content url="https://max-dalton.com/images/media-news/have-a-nice-week-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=have-a-nice-week">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Hugo</title>
+      <link>https://max-dalton.com/news.html?name=hugo</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=hugo</guid>
+      <media:content url="https://max-dalton.com/images/media-news/hugo-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=hugo">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Hemingway&#x27;s Paris IV</title>
+      <link>https://max-dalton.com/news.html?name=hemingway-paris-d</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=hemingway-paris-d</guid>
+      <media:content url="https://max-dalton.com/images/media-news/hemingway-paris-d-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=hemingway-paris-d">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Hemingway&#x27;s Paris III</title>
+      <link>https://max-dalton.com/news.html?name=hemingway-paris-c</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=hemingway-paris-c</guid>
+      <media:content url="https://max-dalton.com/images/media-news/hemingway-paris-c-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=hemingway-paris-c">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Hemingway&#x27;s Paris II</title>
+      <link>https://max-dalton.com/news.html?name=hemingway-paris-b</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=hemingway-paris-b</guid>
+      <media:content url="https://max-dalton.com/images/media-news/hemingway-paris-b-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=hemingway-paris-b">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Le Fabuleux Destin d&#x27;Am&#xE9;lie Poulain</title>
+      <link>https://max-dalton.com/news.html?name=amelie</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=amelie</guid>
+      <media:content url="https://max-dalton.com/images/media-news/amelie-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=amelie">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Hemingway&#x27;s Paris</title>
+      <link>https://max-dalton.com/news.html?name=hemingway-paris</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=hemingway-paris</guid>
+      <media:content url="https://max-dalton.com/images/media-news/hemingway-paris-1.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=hemingway-paris">More info</a></strong></div></content:encoded>
+    </item>
+
+    <item>
+      <title>Anniversary Edition of 111 Archer Avenue</title>
+      <link>https://max-dalton.com/news.html?name=111-archer-avenue</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://max-dalton.com/news.html?name=111-archer-avenue</guid>
+      <media:content url="https://max-dalton.com/images/media-news/111-archer-avenue.jpg" type="image/jpeg" medium="image"></media:content>
+      <content:encoded><div><strong><a href="https://max-dalton.com/news.html?name=111-archer-avenue">More info</a></strong></div></content:encoded>
+    </item>
 
     <item>
       <title>The Vvitch</title>
