@@ -1,6 +1,219 @@
 // Data
 const news = [
     {
+        name: "the-phoenician-scheme", // 67
+        date: "May 23, 2026",
+        dateTime: "2026-05-23",
+        hero: "the-phoenician-scheme-1", //.jpg || .webp
+        width: 670,
+        height: 804,
+        alt: "Cover of The Phoenician Scheme book",
+        title: "The Phoenician Scheme",
+        content: "<p style='text-transform: uppercase;'>The Wes Anderson Collection: The Phoenician Scheme</p>" +
+        "<p>Publication date: November 10, 2026</p>" +
+        "<p>By <a target='_blank' rel='noreferrer' href='https://www.instagram.com/abramsbooks/'>@abramsbooks</a></p>",
+        aditionalImages: []
+    },
+    {
+        name: "happy-friday", // 66
+        date: "May 22, 2026",
+        dateTime: "2026-05-22",
+        hero: "happy-friday-1", //.jpg || .webp
+        width: 670,
+        height: 758,
+        alt: "Illustration",
+        title: "Happy Friday",
+        content: "<p>Another found drawing on a sketchbook. Seems like I often draw people behind counters, but I don't know why...</p>",
+        aditionalImages: []
+    },
+    {
+        name: "untitled", // 65
+        date: "May 21, 2026",
+        dateTime: "2026-05-21",
+        hero: "untitled-1", //.jpg || .webp
+        width: 670,
+        height: 890,
+        alt: "Untitled illustrations",
+        title: "",
+        content: "",
+        aditionalImages: [
+            {
+                name: "untitled-2" //.jpg || .webp
+            },
+            {
+                name: "untitled-3" //.jpg || .webp
+            },
+            {
+                name: "untitled-4" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "have-a-nice-week", // 64
+        date: "May 18, 2026",
+        dateTime: "2026-05-18",
+        hero: "have-a-nice-week-1", //.jpg || .webp
+        width: 670,
+        height: 845,
+        alt: "Illustration",
+        title: "Have a nice week",
+        content: "",
+        aditionalImages: []
+    },
+    {
+        name: "hugo", // 63
+        date: "May 17, 2026",
+        dateTime: "2026-05-17",
+        hero: "hugo-1", //.jpg || .webp
+        width: 670,
+        height: 975,
+        alt: "Illustration of Hugo (2023)",
+        title: "Hugo",
+        content: "<p>Hugo (2023) Ink on paper. Unpublished.</p>",
+        aditionalImages: []
+    },
+    {
+        name: "hemingway-paris-d", // 62
+        date: "May 5, 2026",
+        dateTime: "2026-05-05",
+        hero: "hemingway-paris-d-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Images related Hemingway's Paris puzzle",
+        title: "Hemingway's Paris IV",
+        content: "<p>Around 1906 Picasso painted Gertrude Stein's portrait at her apartment in París.</p>",
+        aditionalImages: [
+            {
+                name: "hemingway-paris-d-2" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-d-3" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-d-4" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "hemingway-paris-c", // 62
+        date: "May 1, 2026",
+        dateTime: "2026-05-01",
+        hero: "hemingway-paris-c-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Images related Hemingway's Paris puzzle",
+        title: "Hemingway's Paris III",
+        content: "<p>Inspiration.</p>",
+        aditionalImages: [
+            {
+                name: "hemingway-paris-c-2" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "hemingway-paris-b", // 61
+        date: "April 27, 2026",
+        dateTime: "2026-04-27",
+        hero: "hemingway-paris-b-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustrations of Hemingway's Paris puzzle",
+        title: "Hemingway's Paris II",
+        content: "<p>1924- René Clair, Francis Picabia, Erik Satie, Marcel Duchamp and Man Ray film scenes of the Dadaist film Entr'acte at the rooftop of the Théâthre des Champs-Élysées in Paris.</p>",
+        aditionalImages: [
+            {
+                name: "hemingway-paris-b-2" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "amelie", // 60
+        date: "April 26, 2026",
+        dateTime: "2026-04-26",
+        hero: "amelie-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustrations Le Fabuleux Destin d'Amélie Poulain",
+        title: "Le Fabuleux Destin d'Amélie Poulain",
+        content: "<p>25 years ago Amélie opened in theaters and 9 years ago I made this poster.</p>",
+        aditionalImages: [
+            {
+                name: "amelie-2" //.jpg || .webp
+            },
+            {
+                name: "amelie-3" //.jpg || .webp
+            },
+            {
+                name: "amelie-4" //.jpg || .webp
+            },
+            {
+                name: "amelie-5" //.jpg || .webp
+            },
+            {
+                name: "amelie-6" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "hemingway-paris", // 59
+        date: "April 23, 2026",
+        dateTime: "2026-04-23",
+        hero: "hemingway-paris-1", //.jpg || .webp
+        width: 670,
+        height: 670,
+        alt: "Illustrations of Hemingway's Paris puzzle",
+        title: "Hemingway's Paris",
+        content: "<p>Did you ever want to have a time machine and travel to your favorite era and place? Which would it be? Mine would definitely be Paris in the 1920s. So many fascinating people and so many important events converging in one place.</p>" +
+        "<p>So when Thames & Hudson contacted me to collaborate on a jigsaw puzzle illustrating Hemingway's Paris, I was absolutely thrilled. Big thanks to Marc Valli and Eliza Scott — I had so much fun drawing it!</p>" +
+        "<p>The puzzle is already available at <a target='_blank' rel='noreferrer' href='https://www.instagram.com/thamesandhudson/'>@thamesandhudson</a> It also comes with a super-interesting foldout featuring references and texts by Matthew Holman.</p>" +
+        "<p>Here are a few preview images. There are so many details, literary references, and artistic nods that I'll probably be sharing more about them in future posts.</p>" +
+        "<ul>Today's detail pics:" +
+        "<li>Tsuguharu Foujita painting in his studio</li>" +
+        "<li>Gertrude Stein and Alice B. Toklas in their apartment at 27 Rue Fleurus</li>" +
+        "<li>Isadora Duncan and her deadly long scarf writing a letter at Dingo American Bar</li>" +
+        "<li>A usual party at Cole Porter's mansion</li>" +
+        "<li>A surrealist meeting at the Café des Deux Magots</pli" +
+        "<li>Josephine Baker dancing at the Theatre des Champs-Elysées</li></ul>",
+        aditionalImages: [
+            {
+                name: "hemingway-paris-2" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-3" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-4" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-5" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-6" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-7" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-8" //.jpg || .webp
+            },
+            {
+                name: "hemingway-paris-9" //.jpg || .webp
+            }
+        ]
+    },
+    {
+        name: "111-archer-avenue", // 58
+        date: "October 24, 2025",
+        dateTime: "2025-10-24",
+        hero: "111-archer-avenue", //.jpg || .webp
+        width: 670,
+        height: 498,
+        alt: "Illustration of 111 Archer Avenue.",
+        title: "Anniversary Edition of 111 Archer Avenue",
+        content: "<p>Online release today! Spoke Art Gallery's Anniversary Edition of 111 Archer Avenue will be available today, Friday, October 24th at 10 am  Pacific/ 1 pm Eastern exclusively <a target='_blank' rel='noreferrer' href='https://www.instagram.com/spoke_art/'>@spoke_art</a></p>",
+        aditionalImages: []
+    },
+    {
         name: "the-vvitch", // 57
         date: "July 23, 2025",
         dateTime: "2025-07-23",
